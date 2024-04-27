@@ -1,0 +1,107 @@
+Kode,Tertinggi,Terendah,Penutupan,Volume,Nilai,Foreign_Sell,Foreign_Buy,A,B,D,E,F,I,K,L,M,S,X,Total_Notasi,Keuangan,Administrasi,Hukum,Sanksi,Struktur_Saham,Pemantauan_Khusus,Emiten,Sektor,Tahun_IPO,Saham_Beredar,Papan_Pencatatan
+ABBA,53,51,51,3987900,207066600,404900,0,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Mahaka Media Tbk.,Consumer Cyclicals,2002,3935892857.0,Pemantauan Khusus
+ADES,10800,10500,10675,31900,341697500,9900,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Akasha Wira International Tbk.,Consumer Non-Cyclicals,1994,589896800.0,Pemantauan Khusus
+AGII,1530,1505,1515,177200,269462500,400,168000,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Samator Indo Gas Tbk.,Basic Materials,2016,3066660000.0,Utama
+AGRS,78,76,76,5171600,402101100,0,487800,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Bank IBK Indonesia Tbk.,Financials,2014,37365877065.0,Pemantauan Khusus
+AIMS,845,815,830,5601300,4636636000,254100,37800,0,0,0,0,0,0,0,0,0,1,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Akbar Indo Makmur Stimec Tbk,Energy,2001,220000000.0,Pemantauan Khusus
+ALMI,140,129,130,44300,5975200,18600,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Alumindo Light Metal Industry ,Basic Materials,1997,3816000000.0,Pemantauan Khusus
+ARKA,50,50,50,7000,350000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Arkha Jayanti Persada Tbk.,Industrials,2019,2000000000.0,Pemantauan Khusus
+ARTA,2700,2700,2700,23600,63720000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Arthavest Tbk,Consumer Cyclicals,2002,446674175.0,Pemantauan Khusus
+ARTI,4,4,4,570000,2280000,0,0,0,0,1,1,0,0,0,1,0,0,1,4,Ya,Ya,Tidak,Tidak,Tidak,Ya,Ratu Prabu Energi Tbk,Energy,2003,7840000000.0,Pemantauan Khusus
+BATA,105,103,104,708100,73654200,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Sepatu Bata Tbk.,Consumer Cyclicals,1982,1300000000.0,Utama
+BAUT,50,50,50,3400,170000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals,2022,4800135289.0,Pemantauan Khusus
+BBKP,80,77,78,39375600,3088063900,580100,125400,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Bank KB Bukopin Tbk.,Financials,2006,185819884852.0,Utama
+BCIC,113,107,113,453500,50085300,3700,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Bank JTrust Indonesia Tbk.,Financials,1997,17926071041.0,Pengembangan
+BEKS,50,50,50,185400,9270000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Bank Pembangunan Daerah Banten,Financials,2001,51351733883.0,Pemantauan Khusus
+BELI,478,472,478,1946900,926704000,907700,0,0,0,0,0,0,1,0,0,0,0,0,1,Tidak,Tidak,Tidak,Tidak,Ya,Tidak,Global Digital Niaga Tbk.,Technology,2022,123210496616.0,Ekonomi Baru
+BELL,72,69,70,860900,60640900,0,137400,0,0,0,0,1,0,0,0,0,0,0,1,Tidak,Tidak,Tidak,Ya,Tidak,Tidak,Trisula Textile Industries Tbk,Consumer Cyclicals,2017,7250000000.0,Pengembangan
+BKSL,54,50,51,127625600,6600470800,1034800,25900,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Sentul City Tbk.,Properties & Real Estate,1997,167708902705.0,Pemantauan Khusus
+BKSW,75,72,74,756400,55511600,34200,60800,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Bank QNB Indonesia Tbk.,Financials,2002,34953681505.0,Pemantauan Khusus
+BOLT,785,770,775,137200,106330500,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Garuda Metalindo Tbk.,Consumer Cyclicals,2015,2343750000.0,Pengembangan
+BPII,10350,10350,10350,300,3105000,300,300,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Batavia Prosperindo Internasio,Financials,2014,515498662.0,Pemantauan Khusus
+BSBK,58,56,57,12886300,735908300,2046200,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Wulandari Bangun Laksana Tbk.,Properties & Real Estate,2022,25091882375.0,Pemantauan Khusus
+BUKA,158,155,156,26656000,4172423900,16071800,3246500,0,0,0,0,0,1,0,0,0,0,0,1,Tidak,Tidak,Tidak,Tidak,Ya,Tidak,Bukalapak.com Tbk.,Technology,2021,103099967067.0,Ekonomi Baru
+CBRE,50,50,50,21400,1070000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Cakra Buana Resources Energi T,Energy,2023,4538041373.0,Pemantauan Khusus
+CENT,53,50,52,2303700,118902100,764300,0,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Centratama Telekomunikasi Indo,Infrastructures,2001,31183464900.0,Pemantauan Khusus
+CINT,142,140,142,21700,3060200,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Tidak,Tidak,Tidak,Ya,Tidak,Tidak,Chitose Internasional Tbk.,Consumer Cyclicals,2014,1000000000.0,Pengembangan
+CMNP,1545,1525,1545,6000,9238500,3600,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Citra Marga Nusaphala Persada ,Infrastructures,1995,5436872008.0,Utama
+CMPP,120,116,117,43100,5047500,0,0,0,0,0,1,0,0,0,1,0,0,1,3,Ya,Ya,Tidak,Tidak,Tidak,Ya,AirAsia Indonesia Tbk.,Transportation & Logistic,1994,10685124441.0,Pemantauan Khusus
+COAL,50,50,50,809800,40490000,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Black Diamond Resources Tbk.,Energy,2022,6250000000.0,Pengembangan
+DADA,7,7,7,10065900,70461300,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Diamond Citra Propertindo Tbk.,Properties & Real Estate,2020,7431530800.0,Pemantauan Khusus
+DIGI,15,14,15,413000,5866900,0,0,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Arkadia Digital Media Tbk.,Consumer Cyclicals,2018,1625000000.0,Pemantauan Khusus
+DMND,800,785,800,62300,49237000,700,200,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,2020,9468359000.0,Pemantauan Khusus
+DPUM,24,24,24,552900,13269600,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,2015,4175000000.0,Pemantauan Khusus
+ENZO,61,55,61,21408100,1264571600,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,2020,2162547122.0,Pemantauan Khusus
+EPAC,8,8,8,12000,96000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Megalestari Epack Sentosaraya ,Basic Materials,2020,3303400000.0,Pemantauan Khusus
+EPMT,2570,2490,2520,72000,180807000,52300,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals,1994,2708640000.0,Pemantauan Khusus
+FAST,725,695,725,5900,4160500,0,2800,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Fast Food Indonesia Tbk.,Consumer Cyclicals,1993,3990277158.0,Pengembangan
+FLMC,28,28,28,2400,67200,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,2021,781250000.0,Pemantauan Khusus
+GDST,114,103,113,380200,42622700,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Gunawan Dianjaya Steel Tbk.,Basic Materials,2009,9242500000.0,Pemantauan Khusus
+GGRP,448,428,430,128600,56021400,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Gunung Raja Paksi Tbk.,Basic Materials,2019,12111376157.0,Pemantauan Khusus
+GIAA,73,70,70,78888800,5600497400,3810200,5403000,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Garuda Indonesia (Persero) Tbk,Transportation & Logistic,2011,91480783837.0,Pemantauan Khusus
+GMFI,79,77,78,1813400,141485500,38500,800,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Garuda Maintenance Facility Ae,Infrastructures,2017,28233511500.0,Pemantauan Khusus
+GOTO,71,67,69,2513433500,174202739100,529273200,708844100,0,0,0,0,0,0,1,0,0,0,0,1,Tidak,Tidak,Tidak,Tidak,Ya,Tidak,GoTo Gojek Tokopedia Tbk.,Technology,2022,1201409662836.0,Ekonomi Baru
+HADE,4,3,3,5577800,16943300,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Himalaya Energi Perkasa Tbk.,Infrastructures,2004,2120000000.0,Pemantauan Khusus
+HELI,448,446,446,4381300,1959692400,74500,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Jaya Trishindo Tbk.,Transportation & Logistic,2018,832862387.0,Pengembangan
+HOPE,50,50,50,670500,33525000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Harapan Duta Pertiwi Tbk.,Industrials,2021,2130360201.0,Pemantauan Khusus
+INAF,392,382,388,25000,9663600,0,0,0,0,0,1,0,0,0,1,1,0,1,4,Ya,Ya,Tidak,Tidak,Tidak,Ya,Indofarma Tbk.,Healthcare,2001,3099267500.0,Pemantauan Khusus
+IPPE,50,50,50,800,40000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,2021,4600000000.0,Pemantauan Khusus
+JAWA,129,119,125,266200,33373000,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,2011,16232951842.0,Utama
+KAEF,795,775,775,1051900,819147500,299200,39900,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Kimia Farma Tbk.,Healthcare,2001,5566529785.0,Utama
+KAYU,50,50,50,427300,21365000,0,0,0,0,0,0,0,0,0,1,1,0,1,3,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Darmi Bersaudara Tbk.,Basic Materials,2019,665000000.0,Pemantauan Khusus
+KBLV,67,63,64,20200,1293800,0,0,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,First Media Tbk.,Infrastructures,2000,1742167907.0,Pemantauan Khusus
+KDSI,1695,1675,1680,8600,14447500,1300,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Kedawung Setia Industrial Tbk.,Basic Materials,1996,405000000.0,Pemantauan Khusus
+KIAS,15,15,15,500200,7503000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Keramika Indonesia Assosiasi T,Industrials,1994,14929100000.0,Pemantauan Khusus
+KIOS,50,50,50,19100,955000,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Kioson Komersial Indonesia Tbk,Technology,2017,1075862550.0,Pengembangan
+KOKA,91,84,86,17795000,1537155400,1367500,2661300,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Koka Indonesia Tbk.,Infrastructures,2023,2861333000.0,Pengembangan
+KOTA,50,50,50,9300,465000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,DMS Propertindo Tbk.,Consumer Cyclicals,2019,10546185701.0,Pemantauan Khusus
+KRAS,140,138,138,4158100,576238300,1188800,48100,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Krakatau Steel (Persero) Tbk.,Basic Materials,2010,19346396900.0,Pengembangan
+LAND,20,20,20,2331100,46622000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Trimitra Propertindo Tbk.,Properties & Real Estate,2018,2792620000.0,Pemantauan Khusus
+LAPD,7,7,7,819700,5737900,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Leyand International Tbk.,Infrastructures,2001,3966350139.0,Pemantauan Khusus
+LEAD,61,59,60,681000,40834900,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Logindo Samudramakmur Tbk.,Energy,2013,4049616328.0,Utama
+LION,480,470,472,21700,10405400,500,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Lion Metal Works Tbk.,Industrials,1993,520160000.0,Pemantauan Khusus
+MASA,4100,3980,4080,1900,7743000,200,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,2005,9182946945.0,Pemantauan Khusus
+MDRN,5,5,5,305400,1527000,0,0,0,0,0,1,0,0,0,1,0,0,1,3,Ya,Ya,Tidak,Tidak,Tidak,Ya,Modern Internasional Tbk.,Industrials,1991,7632167798.0,Pemantauan Khusus
+MGNA,8,8,8,50100,400800,50000,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Magna Investama Mandiri Tbk.,Financials,2014,3410475412.0,Pemantauan Khusus
+MIRA,7,7,7,768000,5376000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Mitra International Resources ,Transportation & Logistic,1997,3961452039.0,Pemantauan Khusus
+MKNT,2,2,2,3832900,7665800,0,0,0,0,0,1,0,0,0,1,0,0,1,3,Ya,Ya,Tidak,Tidak,Tidak,Ya,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals,2015,5500000000.0,Pemantauan Khusus
+MRAT,364,352,364,279500,100391600,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Mustika Ratu Tbk.,Consumer Non-Cyclicals,1995,428000000.0,Utama
+MTPS,8,8,8,712300,5698400,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Meta Epsi Tbk.,Infrastructures,2019,2084850829.0,Pemantauan Khusus
+MTSM,131,116,124,79900,9882700,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Metro Realty Tbk.,Properties & Real Estate,1992,232848000.0,Pemantauan Khusus
+NASA,18,18,18,213400,3841200,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Andalan Perkasa Abadi Tbk.,Properties & Real Estate,2017,11004929322.0,Pemantauan Khusus
+NETV,59,56,58,2633500,153205300,2200,130800,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Net Visi Media Tbk.,Consumer Cyclicals,2022,23453177240.0,Pemantauan Khusus
+NIRO,140,139,140,651500,90558800,1200,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,City Retail Developments Tbk.,Properties & Real Estate,2012,22198871804.0,Pengembangan
+NPGF,50,50,50,17300,865000,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Nusa Palapa Gemilang Tbk.,Basic Materials,2021,3240235840.0,Utama
+PADI,8,7,7,39100,295100,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Minna Padi Investama Sekuritas,Financials,2012,11307246524.0,Pemantauan Khusus
+PBRX,50,50,50,14100,705000,0,0,0,0,0,0,0,0,0,0,1,0,1,2,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Pan Brothers Tbk.,Consumer Cyclicals,1990,21482028246.0,Pemantauan Khusus
+PGUN,418,416,416,300,125000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,2020,5737848882.0,Pemantauan Khusus
+PLIN,2670,2630,2670,1500,3997000,200,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Plaza Indonesia Realty Tbk.,Properties & Real Estate,1992,3550000000.0,Pemantauan Khusus
+POLL,144,141,143,5300,750700,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Pollux Properties Indonesia Tb,Properties & Real Estate,2018,8318823600.0,Pengembangan
+POLU,505,456,498,1800,883600,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Golden Flower Tbk.,Consumer Cyclicals,2019,750000000.0,Pengembangan
+PPRO,50,50,50,35900,1795000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,PP Properti Tbk.,Properties & Real Estate,2015,61675671883.0,Pemantauan Khusus
+PUDP,550,530,535,4500,2415000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Pudjiadi Prestige Tbk.,Properties & Real Estate,1994,329560000.0,Pemantauan Khusus
+REAL,8,8,8,774900,6199200,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Repower Asia Indonesia Tbk.,Properties & Real Estate,2019,6633610151.0,Pemantauan Khusus
+SBAT,2,2,2,4368100,8736200,0,0,0,0,0,0,0,0,0,1,1,1,1,4,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Sejahtera Bintang Abadi Textil,Consumer Cyclicals,2020,4752982378.0,Pemantauan Khusus
+SKBM,278,270,278,500,137400,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Sekar Bumi Tbk.,Consumer Non-Cyclicals,2012,1730103217.0,Pemantauan Khusus
+SKLT,202,200,202,44100,8838200,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Sekar Laut Tbk.,Consumer Non-Cyclicals,1993,6907405000.0,Pemantauan Khusus
+SMCB,1285,1270,1280,114800,146941500,67000,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Solusi Bangun Indonesia Tbk.,Basic Materials,1977,9019381973.0,Pemantauan Khusus
+SOHO,500,494,500,2600,1299400,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Soho Global Health Tbk.,Healthcare,2020,12691682390.0,Pemantauan Khusus
+SQMI,51,50,50,2015000,101141000,0,132600,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Wilton Makmur Indonesia Tbk.,Basic Materials,2004,15537591429.0,Pengembangan
+SURE,1450,1450,1450,69500,100775000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Super Energy Tbk.,Energy,2018,1497576771.0,Pemantauan Khusus
+TAMA,14,14,14,20700,289800,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Lancartama Sejati Tbk.,Infrastructures,2020,1200000696.0,Pemantauan Khusus
+TARA,8,8,8,432500,3460000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Agung Semesta Sejahtera Tbk.,Properties & Real Estate,2014,10069645750.0,Pemantauan Khusus
+TIRA,370,370,370,14500,5365000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Tira Austenite Tbk,Industrials,1993,588000000.0,Pemantauan Khusus
+TOPS,5,5,5,2125200,10626000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Totalindo Eka Persada Tbk.,Infrastructures,2017,33330000000.0,Pemantauan Khusus
+TOTO,230,226,228,372100,84902800,0,142300,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Surya Toto Indonesia Tbk.,Industrials,1990,10320000000.0,Pemantauan Khusus
+TRJA,195,189,189,1010800,192838300,710800,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Transkon Jaya Tbk.,Transportation & Logistic,2020,1510200000.0,Utama
+TRUE,50,50,50,20000,1000000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Triniti Dinamik Tbk.,Properties & Real Estate,2021,7571035172.0,Pemantauan Khusus
+URBN,131,128,128,25400,3266600,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Urban Jakarta Propertindo Tbk.,Properties & Real Estate,2018,3232122640.0,Pengembangan
+WINR,50,50,50,40400,2020000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Winner Nusantara Jaya Tbk.,Properties & Real Estate,2022,5235283825.0,Pemantauan Khusus
+WMPP,50,50,50,1400,70000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,2021,29419000000.0,Pemantauan Khusus
+WMUU,50,50,50,58500,2925000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,2021,12941176500.0,Pemantauan Khusus
+WOWS,50,50,50,10000,500000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Ginting Jaya Energi Tbk.,Energy,2019,2475720000.0,Pemantauan Khusus
+WSBP,50,50,50,20000,1000000,0,0,0,0,0,1,0,0,0,0,0,0,1,2,Ya,Tidak,Tidak,Tidak,Tidak,Ya,Waskita Beton Precast Tbk.,Basic Materials,2016,54555721325.0,Pemantauan Khusus
+YELO,50,50,50,2100,105000,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Tidak,Ya,Tidak,Tidak,Tidak,Ya,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,2018,1912774405.0,Pemantauan Khusus
+ZATA,50,50,50,400,20000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Tidak,Tidak,Tidak,Tidak,Tidak,Ya,Bersama Zatta Jaya Tbk.,Consumer Cyclicals,2022,8496000000.0,Pemantauan Khusus
+ZBRA,460,450,458,54600,24877800,2400,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Dosni Roha Indonesia Tbk.,Industrials,1991,2510706263.0,Pengembangan
+ZONE,1115,1110,1115,132200,147053000,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Tidak,Ya,Tidak,Tidak,Tidak,Tidak,Mega Perintis Tbk.,Consumer Cyclicals,2018,870171478.0,Pengembangan
